@@ -4,7 +4,11 @@
 > 100+ free directories, launch channels & submission templates for indie makers.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/realchendahuang/cold-launch?style=social)](https://github.com/realchendahuang/cold-launch)
+[![GitHub forks](https://img.shields.io/github/forks/realchendahuang/cold-launch?style=social)](https://github.com/realchendahuang/cold-launch/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/realchendahuang/cold-launch)](https://github.com/realchendahuang/cold-launch/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/realchendahuang/cold-launch/pulls)
+[![Follow @realchendahuang](https://img.shields.io/badge/Follow-%40realchendahuang-1DA1F2?logo=x&logoColor=white)](https://x.com/realchendahuang)
 
 ---
 
